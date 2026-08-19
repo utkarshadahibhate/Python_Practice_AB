@@ -13,6 +13,9 @@ print(next(r))
 print(next(r))
 print(next(r))
 
+## since range() function can be used directly in the for loop likewise only generator can 
+## also be used in the for loop directly
+
 print()
 ## Generator function cycling through days of the week infinitely
 def days():
