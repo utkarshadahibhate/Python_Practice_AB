@@ -1,3 +1,9 @@
 This is the first file to open.
 learning python.
 learning file handling.
+
+file handling
+topics
+what are files?
+opening a file & modes
+operations on files
