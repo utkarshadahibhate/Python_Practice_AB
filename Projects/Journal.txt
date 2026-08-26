@@ -1,0 +1,6 @@
+Learning Python Programming.
+Installed python and ran my first "hello world" script.
+Practiced creating variables and printing user input.
+Wrote basic if-else statementsand used loops for the first time.
+Fixed indentation errors in my code and learnedwhy they matter.
+Created simple functions to reuse code more easily.
